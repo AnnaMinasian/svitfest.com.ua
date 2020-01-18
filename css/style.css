@@ -13,7 +13,7 @@ nav {
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 200px;
-    padding-top: 350px;
+    padding-top: 250px;
 }
 .information {
     background-image: url(../img/bg-information.jpg);
@@ -171,8 +171,8 @@ footer {
     text-decoration: underline;
 }
 .contact img {
-    width: 25px;
-    height: 25px;
+    width: 30px;
+    height: 30px;
     margin-right: 10px;
 }
 .menu {
@@ -294,7 +294,7 @@ footer {
         top: -10px;
     }
     .main {
-        padding-top: 300px;
+        padding-top: 200px;
         padding-bottom: 150px;
     }
     .logo-circle {
@@ -313,7 +313,7 @@ footer {
         font-size: 2.2rem;
     }
     .main {
-        padding-top: 250px;
+        padding-top: 150px;
         padding-bottom: 120px;
     }
     .about {
